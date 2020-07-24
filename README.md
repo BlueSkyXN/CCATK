@@ -33,7 +33,7 @@
 
     pip3 install requests pysocks
     git clone https://github.com/BlueSkyXN/CCATK.git
-    cd cc-attack
+    cd CCATK
 
 ## 使用
 
