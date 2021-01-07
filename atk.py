@@ -31,7 +31,7 @@ print ('''
 Python3 version 3.0 (Improvement)
                                    by BlueSkyXN
 ┌─────────────────────────────────────────────┐
-│     Tos: Don't attack any other website     │
+│        Tos: Don't attack ANY website        │
 ├─────────────────────────────────────────────┤
 │                 New stuff:                  │
 │          + Fast Port Re-use                 │
