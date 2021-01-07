@@ -29,9 +29,9 @@ print ('''
       CCCCC/   CCCCC/   |___________|/
 >--------------------------------------------->
 Python3 version 3.0 (Improvement)
-                            C0d3d by L330n123
+                                   by BlueSkyXN
 ┌─────────────────────────────────────────────┐
-│        Tos: Don't attack .gov website       │
+│     Tos: Don't attack any other website     │
 ├─────────────────────────────────────────────┤
 │                 New stuff:                  │
 │          + Fast Port Re-use                 │
@@ -39,7 +39,7 @@ Python3 version 3.0 (Improvement)
 │          + Added socks mode selection       │
 │          + Fixed slow mode                  │
 ├─────────────────────────────────────────────┤
-│ Link: https://github.com/Leeon123/CC-attack │
+│ Link: https://github.com/BlueSkyXN/CCATK    │
 └─────────────────────────────────────────────┘''')
 
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
@@ -351,7 +351,7 @@ def slow(conn,socks_type):
 				sys.stdout.flush()
 				pass
 nums = 0
-def checking(lines,socks_type,ms):#Proxy checker coded by Leeon123
+def checking(lines,socks_type,ms):#Proxy checker coded by BlueSkyXN
 	global nums
 	global proxies
 	proxy = lines.strip().split(":")
@@ -378,7 +378,7 @@ def checking(lines,socks_type,ms):#Proxy checker coded by Leeon123
 			err +=1
 	nums += 1
 
-def check_socks(ms):#Coded by Leeon123
+def check_socks(ms):#Coded by BlueSkyXN
 	global nums
 	thread_list=[]
 	for lines in list(proxies):
@@ -680,4 +680,4 @@ def main():
 	
 
 if __name__ == "__main__":
-	main()#Coded by Leeon123
+	main()#Coded by BlueSkyXN
